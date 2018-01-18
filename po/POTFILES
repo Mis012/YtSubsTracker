@@ -1,0 +1,9 @@
+data/org.gnome.Yt_Subs_Tracker.desktop.in
+data/org.gnome.Yt_Subs_Tracker.appdata.xml.in
+data/org.gnome.Yt_Subs_Tracker.gschema.xml
+src/yt_subs_tracker-window.ui
+src/main.c
+src/yt_subs_tracker-window.c
+
+
+
