@@ -1,3 +1,8 @@
+# !!!!!
+# moved to gitlab (Trusting Microsoft brings zero benefit to me, so I do't need *recent* evidence of it being a bad idea)
+# https://gitlab.com/Mis012/YtSubsTracker
+
+
 # YtSubsTracker
 An application for anonnymous 'subscribing' to youtube channel
 
